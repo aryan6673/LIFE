@@ -110,14 +110,23 @@ Like a book on a shelf you didn’t expect to love — but did.
 A life in phases — each one a chapter, not a checklist. Here's how it's unfolded so far:
 
 ### 📘 Phase 1 — High School (2024–2026)
-- Got pritty decent grades in middle school, (3.7/4.0) CCGPA. exited to start a new phase of my life. Gonna took Science as my majour.
-- Tried a lot of things. Content writing, Ecommerce, Marketing, fellowships before high school stars. at the end nothing worked lol. But i got to learn a lots of things.
-- Launched my first open-source projects and began contributing on GitHub.
-- Got pritty bad grades in class 11th. But i am pritty satisfied with it. (2.6/4.0) CGPA btw.
-- Wrote *Zero to Job*, a guide to navigating IT careers as a student. My motivation was money but i didnt earned any money so i put it at the least cost possible to let it rest at a corner of the internet.
-- After a lots of average. I got one thing boomed while explring. Got 
-- Class 12th started. Didnt studies anything until the first 2 months. Got a crush on a Girl but never got attached lol. ("pss pss she never gave attention")
-- Joined HackClub, Made some projects with my fellow community members.
+
+- Finished middle school with a 3.7/4.0 CGPA — solid, not groundbreaking, but it left me hopeful. With an eager mind and a restless heart, I stepped into high school, choosing Science as my major. It felt less like a decision, more like a quiet dare to myself.
+
+- Before high school formally began, I wandered — through content writing, e-commerce trials, marketing misadventures, and even fellowship applications. None bore fruit. But each failure whispered a different lesson, and I was listening.
+
+- I stumbled into open-source like one discovers a hidden alley in a busy city — by accident, but never by mistake. I launched my first public projects, contributed on GitHub, and started leaving footprints in a digital world where age, location, and labels didn’t matter.
+
+- Class 11 arrived with its own storm. My grades dipped to a 2.6/4.0 CGPA — but strangely, I wasn’t shaken. That year taught me to uncouple academic metrics from personal growth. Not everything that counts can be counted.
+
+- Amid the chaos, I authored *Zero to Job*, a student’s guide to exploring IT careers. It began as a monetization idea, ended as a near-free resource tucked in a quiet corner of the internet. Sometimes, impact matters more than income.
+
+- After many average experiments, one idea finally clicked — a quiet breakthrough, born from boredom and curiosity. More on that in Phase 2.
+
+- The start of Class 12 was beautifully unproductive. For two months, I didn’t study a word. Instead, I caught feelings for a girl who never looked back. (“psst… she never even noticed”)
+
+- Eventually, I joined HackClub — a place that felt like home for builders and dreamers. Collaborated with strangers who became friends. Built things that didn’t just work — they sparked something inside me.
+
 
 <p align="right"><em>Last updated: June 29, 2025</em></p>
 
