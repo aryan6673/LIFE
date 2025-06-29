@@ -121,7 +121,7 @@ A life in phases — each one a chapter, not a checklist. Here's how it's unfold
 
 - Amid the chaos, I authored *Zero to Job*, a student’s guide to exploring IT careers. It began as a monetization idea, ended as a near-free resource tucked in a quiet corner of the internet. Sometimes, impact matters more than income.
 
-- After many average experiments, one idea finally clicked — a quiet breakthrough, born from boredom and curiosity. More on that in Phase 2.
+- After many average experiments, one idea finally clicked — a quiet breakthrough, born from boredom and curiosity. I got 2.5 million stream on a song i posted randomly.
 
 - The start of Class 12 was beautifully unproductive. For two months, I didn’t study a word. Instead, I caught feelings for a girl who never looked back. (“psst… she never even noticed”)
 
