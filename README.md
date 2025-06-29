@@ -118,7 +118,8 @@ A life in phases — each one a chapter, not a checklist. Here's how it's unfold
 - After a lots of average. I got one thing boomed while explring. Got 
 - Class 12th started. Didnt studies anything until the first 2 months. Got a crush on a Girl but never got attached lol. ("pss pss she never gave attention")
 - Joined HackClub, Made some projects with my fellow community members.
-<!-- More phases can follow like this -->
+
+<p align="right"><em>Last updated: June 29, 2025</em></p>
 
 ### 🛠️ Phase 2 — [Next Chapter Title]
 *Coming soon…*
