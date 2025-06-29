@@ -128,6 +128,9 @@ A life in phases — each one a chapter, not a checklist. Here's how it's unfold
 - Eventually, I joined HackClub — a place that felt like home for builders and dreamers. Collaborated with strangers who became friends. Built things that didn’t just work — they sparked something inside me.
 
 
+![Me sitting at my bench](photo/p1.jpg)
+
+
 <p align="right"><em>Last updated: June 29, 2025</em></p>
 
 ### 🛠️ Phase 2 — [Next Chapter Title]
