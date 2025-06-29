@@ -2,7 +2,7 @@
 
 And yet, here you are — reading words I wrote in silence, probably without ever meeting me. That, in itself, is poetic.  
 I didn’t build this page to impress. I built it to express — not who I am in bullet points, but in presence.  
-This site isn’t a pitch deck or a personal ad. It’s a door left slightly open, for the kind of minds that like wandering into rooms uninvited.
+This readme isn’t a pitch deck or a personal ad. It’s a door left slightly open, for the kind of minds that like wandering into rooms uninvited.
 
 ---
 
