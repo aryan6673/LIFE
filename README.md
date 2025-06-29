@@ -90,7 +90,7 @@ And maybe, if the curiosity lingers long enough, you’ll reach out.
 
 ---
 
-## ☕ I know you’re curious
+## I know you’re curious
 
 Let’s have a nice talk — no agendas, no expectations.  
 Just a 15-minute virtual tea break, the kind where ideas flow freely and nobody rushes the moment.  
@@ -105,11 +105,11 @@ Like a book on a shelf you didn’t expect to love — but did.
 
 ---
 
-## ⏳ My Timeline
+## My Timeline
 
 A life in phases — each one a chapter, not a checklist. Here's how it's unfolded so far:
 
-### 📘 Phase 1 — High School (2024–2026)
+### Phase 1 — High School (2024–2026)
 
 - Finished middle school with a 3.7/4.0 CGPA — solid, not groundbreaking, but it left me hopeful. With an eager mind and a restless heart, I stepped into high school, choosing Science as my major. It felt less like a decision, more like a quiet dare to myself.
 
