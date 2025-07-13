@@ -94,7 +94,7 @@ And maybe, if the curiosity lingers long enough, you’ll reach out.
 
 Let’s have a nice talk — no agendas, no expectations.  
 Just a 15-minute virtual tea break, the kind where ideas flow freely and nobody rushes the moment.  
-**Book a slot here:** [calendly.com/aryanbrite/30min](https://calendly.com/aryanbrite/30min)
+**Book a slot here:** [^-^](https://calendly.com/aryanbrite/30min)
 
 ---
 
