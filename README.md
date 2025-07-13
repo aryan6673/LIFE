@@ -119,13 +119,13 @@ A life in phases — each one a chapter, not a checklist. Here's how it's unfold
 
 - Class 11 arrived with its own storm. My grades dipped to a 2.6/4.0 CGPA — but strangely, I wasn’t shaken. That year taught me to uncouple academic metrics from personal growth. Not everything that counts can be counted.
 
-- Amid the chaos, I authored *Zero to Job*, a student’s guide to exploring IT careers. It began as a monetization idea, ended as a near-free resource tucked in a quiet corner of the internet. Sometimes, impact matters more than income.
+- Amid the chaos, I authored [*Zero to Job*](https://www.amazon.com/Zero-Job-job-without-waiting-college-ebook/dp/B0D57HYFZ5), a student’s guide to exploring IT careers. It began as a monetization idea, ended as a near-free resource tucked in a quiet corner of the internet. Sometimes, impact matters more than income.
 
 - After many average experiments, one idea finally clicked — a quiet breakthrough, born from boredom and curiosity. I got 2.5 million streams on a song i posted randomly.
 
 - The start of Class 12 was beautifully unproductive. For two months, I didn’t study a word. Instead, I caught feelings for a girl who never looked back. (“psst… she never even noticed”)
 
-- Eventually, I joined HackClub — a place that felt like home for builders and dreamers. Collaborated with strangers who became friends. Built things that didn’t just work — they sparked something inside me.
+- Eventually, I joined [*HackClub*](https://hackclub.com) — a place that felt like home for builders and dreamers. Collaborated with strangers who became friends. Built things that didn’t just work — they sparked something inside me.
 
 
 <img src="photo/p1.png" alt="Me sitting at my bench" width="300"/>
