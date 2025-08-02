@@ -132,7 +132,10 @@ A life in phases — each one a chapter, not a checklist. Here's how it's unfold
 - Founded my own nonprofit: the [*DeyWeaver Foundation*](https://npo.deyweaver.live) — a 501(c)(3). We got fiscally sponsored by [*IFERS*](https://ifers.org), under the generous guidance of Professor [Newton Lee](https://en.wikipedia.org/wiki/Newton_Lee) — whose support reminded me that even the boldest visions need roots.
 
 
-<img src="photo/p1.png" alt="Me sitting at my bench" width="300"/>
+<figure>
+  <img src="photo/p1.png" alt="Me sitting at my bench" width="300"/>
+  <figcaption style="text-align: center; font-style: italic;">Me sitting at my bench</figcaption>
+</figure>
 
 
 <p align="right"><em>Last updated: July 2, 2025</em></p>
