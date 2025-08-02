@@ -127,6 +127,10 @@ A life in phases — each one a chapter, not a checklist. Here's how it's unfold
 
 - Eventually, I joined [*HackClub*](https://hackclub.com) — a place that felt like home for builders and dreamers. Collaborated with strangers who became friends. Built things that didn’t just work — they sparked something inside me.
 
+- Volunteered as a Program Manager at [*YIAW*](https://yiaw.org), helping students navigate their mental wellbeing. It wasn’t a fancy title — just quiet hours spent listening, guiding, and reminding young minds they weren’t alone.
+
+- Founded my own nonprofit: the [*DeyWeaver Foundation*](https://npo.deyweaver.live) — a 501(c)(3). We got fiscally sponsored by [*IFERS*](https://ifers.org), under the generous guidance of Professor [Newton Lee](https://en.wikipedia.org/wiki/Newton_Lee) — whose support reminded me that even the boldest visions need roots.
+
 
 <img src="photo/p1.png" alt="Me sitting at my bench" width="300"/>
 
