@@ -135,7 +135,7 @@ A life in phases — each one a chapter, not a checklist. Here's how it's unfold
 <img src="photo/p1.png" alt="Me sitting at my bench" width="300"/>
 
 
-<p align="right"><em>Last updated: June 29, 2025</em></p>
+<p align="right"><em>Last updated: July 2, 2025</em></p>
 
 ### 🛠️ Phase 2 — [Next Chapter Title]
 *Coming soon…*
