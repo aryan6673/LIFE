@@ -131,6 +131,7 @@ A life in phases — each one a chapter, not a checklist. Here's how it's unfold
 
 - Founded my own nonprofit: the [*DeyWeaver Foundation*](https://npo.deyweaver.live) — a 501(c)(3). We got fiscally sponsored by [*IFERS*](https://ifers.org), under the generous guidance of Professor [Newton Lee](https://en.wikipedia.org/wiki/Newton_Lee) — whose support reminded me that even the boldest visions need roots.
 
+- Eventually, I applied to become the Lead Organizer of [*Campfire Delhi*](https://campfire.hackclub.com/delhi) at [*HackClub*](https://hackclub.com). I wasn't expecting much — in my head, it was just another form to fill, another shot in the dark. But out of nowhere, I got selected.
 
 <figure>
   <img src="photo/p1.png" alt="Me sitting at my bench" width="300"/>
