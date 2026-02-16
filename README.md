@@ -139,7 +139,7 @@ A life in phases — each one a chapter, not a checklist. Here's how it's unfold
 </figure>
 
 
-<p align="right"><em>Last updated: July 2, 2025</em></p>
+<p align="right"><em>Last updated: January 28, 2026</em></p>
 
 ### 🛠️ Phase 2 — [Next Chapter Title]
 *Coming soon…*
